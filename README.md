@@ -18,7 +18,7 @@ Joy Tactics is an emerging podcast hosted by three hilarious alternative comedia
     - Node pool name: `<your-choice>`
     - Shared CPU
     - Machine type (Droplet): Basic
-    - Node Plan: `2GB total RAM / 1 vCPU / 50GB storage`
+    - Node Plan: `4GB total RAM / 2 vCPU / 80GB storage`
     - Nodes: `3`
     - Cluster name: `<your-choice>`
     - Project: `<your-project>`
